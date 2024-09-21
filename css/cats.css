@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+}
+
+header{
+    background-color:rgb(170 170 251);
+    text-align:center;
+}
+
+header h1{
+    color:beige;
+}
+
+header img{
+    width: 420px;
+    border-radius: 300px;
+}
